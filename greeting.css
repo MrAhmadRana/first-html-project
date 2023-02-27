@@ -1,0 +1,27 @@
+body {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+	background-color: black;
+	background-image: url('images.jpg');
+	text-align: center;
+	color: green;
+	font-weight: bolder;
+}
+h1 {
+	color: goldenrod;
+}
+#message-el {
+	font-style: italic;
+}
+button {
+	color: rebeccapurple;
+	width: 150px;
+	background: goldenrod;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	border: none;
+	border-radius: 2px;
+	margin-bottom: 4px;
+	margin-top: 4px;
+}
